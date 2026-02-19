@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: C:\Users\Nico\Documents\GitHub\dspico-hardware\dspico-pcb\design-files\Altium\DSpico_PCB.PcbDoc
+DRC Rules Export File for PCB: C:\Users\me\Documents\GitHub\dspico-hardware\dspico-pcb\design-files\Altium\DSpico_PCB.PcbDoc
 RuleKind=MinimumAnnularRing|RuleName=Minimum IAR <=0.45mm|Scope=Board|Minimum=5.12
 RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  >0.45mm|Scope=Board|Minimum=5.12
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

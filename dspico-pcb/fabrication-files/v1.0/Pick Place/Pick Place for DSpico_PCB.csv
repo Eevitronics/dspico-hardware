@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+C:\Users\me\Documents\GitHub\dspico-hardware\dspico-pcb\design-files\Altium\Project Outputs for DSpico\Pick Place for DSpico_PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       20/02/26
+Time:       07:11
+Revision:   7067817ace79429572895cc9851894ce6c3b8653
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R16","10K","TopLayer","R0402","807.087","397.638","0","SMD Chip Resistor, 220 Ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
+"R12","120R","TopLayer","R0402","62.992","984.252","180","Res General Purpose Thick Film 0402 120 Ohm 1% 1/16W ±100ppm/°C Molded Paper T/R"
+"U4","MKDV1GCL-AB","TopLayer","SON127P800X600X80-8N","267.716","744.095","0","Integrated Circuit"
+"R15","1K","TopLayer","R0402","1003.937","574.803","90","VISHAY - CRCW04021K00FKED - RES, PELÍC GRUESA, 1K, 1%, 0.063W, 0402"
+"R13","220R","TopLayer","R0402","62.992","917.323","180","SMD Chip Resistor, 220 Ohm, ± 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose"
+"D2","BL-HUB37A-AV-TRB","TopLayer","LED0402-RD","318.898","917.323","180","Red 0402 1X.5X4MM"
+"D1","BL-HB337A-AV-TRB","TopLayer","LED0402-RD","200.787","917.323","180","Blue 0402 1X.5X4MM"
+"R14","1K","TopLayer","R0402","948.819","996.063","180","VISHAY - CRCW04021K00FKED - RES, PELÍC GRUESA, 1K, 1%, 0.063W, 0402"
+"C15","100NF","TopLayer","C0402","685.039","951.181","0","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C14","2.2uF","TopLayer","C0402","685.039","994.488","0","TDK - C1005X5R1A225K050BC - COND, CERÁ MULT, X5R, 2.2UF, 10V, 0402"
+"C13","12PF","TopLayer","C0402","692.913","352.756","0","CAP CER 12PF 50V C0G/NP0 0402"
+"C12","12PF","TopLayer","C0402","606.299","447.244","90","CAP CER 12PF 50V C0G/NP0 0402"
+"R11","RC0402FR-0727RL","TopLayer","R0402","830.709","892.126","270","RES 27 OHM 1% 1/16W 0402"
+"R10","RC0402FR-0727RL","TopLayer","R0402","877.953","892.126","270","RES 27 OHM 1% 1/16W 0402"
+"R3","10K","TopLayer","R0402","889.764","482.677","270","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"C11","100NF","TopLayer","C0402","783.465","892.126","270","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C10","100NF","TopLayer","C0402","842.520","482.677","90","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C9","1uF","TopLayer","C0402","925.197","892.126","270","TDK - C1005X5R1E105K050BC - COND, CERÁ MULT, X5R, 1UF, 25V, 0402"
+"C8","100NF","TopLayer","C0402","980.315","770.079","90","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C7","100NF","TopLayer","C0402","992.126","667.716","270","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C6","100NF","TopLayer","C0402","795.276","482.677","90","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C5","100NF","TopLayer","C0402","586.614","648.031","0","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C4","100NF","TopLayer","C0402","586.614","789.764","0","0402 0.1 uF 16V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor"
+"C3","1uF","TopLayer","C0402","586.614","742.520","0","TDK - C1005X5R1E105K050BC - COND, CERÁ MULT, X5R, 1UF, 25V, 0402"
+"X1","XYDBPCNANF-12MHZ","TopLayer","OSC-SMD_4P-L2.5-W2.0-BL","694.881","449.212","270","XYDBPCNANF-12MHZ"
+"U3","W25Q16JVUXIQ","TopLayer","SON50P300X200X60-9N","649.606","884.252","0","NOR Flash Serial (SPI, Dual SPI, Quad SPI) 3V/3.3V 16M-bit 2M x 8 6ns 8-Pin USON EP T/R"
+"U2","RP2040","TopLayer","QFN40P700X700X90-57N","799.213","687.401","0","RP2040 chip for Raspberry Pi Pico - ARM Cortex-M0+ MCU 32-Bit"
+"R9","10K","TopLayer","R0402","169.291","578.740","180","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"R8","10K","TopLayer","R0402","448.819","578.740","0","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"R7","10K","TopLayer","R0402","535.433","578.740","0","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"R6","10K","TopLayer","R0402","43.307","555.118","270","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"R5","10K","TopLayer","R0402","90.551","555.118","270","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"R4","10K","TopLayer","R0402","259.842","578.740","180","VISHAY DRALORIC - CRCW040210K0FKED - RESISTENCIA, 10K, 0.063W, 1%, 0402, SMD"
+"J3","NDS_CARDA","TopLayer","NDS_CARD","498.386","126.335","0",""

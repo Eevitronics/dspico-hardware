@@ -1,3 +1,11 @@
+> **⚠️ This is a fork of DSpico — [EeviCart Pico](https://www.eevitronics.jp) by [Eevitronics](https://www.eevitronics.jp)**
+>
+> This fork removes the USB port, SD card slot, and their supporting circuitry so the board fits inside a standard retail DS shell. It runs the stock DSpico firmware and is programmed through the test pads on the back of the board.
+>
+> EeviCart Pico is designed by Eevitronics to support homebrew DS(i) releases. If you'd like to pick one up, head over to **[www.eevitronics.jp](https://www.eevitronics.jp)**.
+>
+> 🎮 **Homebrew developers:** Want to see your game on a proper retail-style cartridge, complete with shell, box and cover art shipped straight to your customers? [Get in touch!](https://www.eevitronics.jp)
+
 ![DSpico-banner](dspico-artwork-design/others/banner2.png)
 
 # DSpico Hardware
